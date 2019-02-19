@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543259052 source:d:\program files\codeblocks\codes\algoproject2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	<cstring>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1540685504 source:d:\codeblocks\codes\algohw1\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	<chrono>
+
+1540826539 source:c:\users\said\desktop\lisans 7. dönem\blg335e-analysis of algorithms i\hw1\algohw1test\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+
